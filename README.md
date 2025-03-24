@@ -1,7 +1,7 @@
 Sure! Below is the **README.md** file in GitHub markdown format. You can just copy and paste it into your repository.  
 
 ```md
-# High-Performance TCP/IP Chat Application  
+# TCP/IP Chat Application  
 
 ## Overview  
 This project is a real-time chat system implemented in C++ using sockets and multithreading. The application consists of a **server** and a **client**, which communicate over TCP/IP to enable real-time message exchange. The server listens for incoming connections, and the client connects to the server to initiate a chat session.  
