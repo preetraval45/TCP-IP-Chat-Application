@@ -43,13 +43,13 @@ g++ client.cpp -o client -lws2_32
 ### 1. Start the Server  
 Run the server executable first to listen for incoming client connections.  
 ```sh
-server.exe
+./server.exe
 ```
 
 ### 2. Start the Client  
 Open another terminal and run the client executable to connect to the server.  
 ```sh
-client.exe
+./client.exe
 ```
 
 ### 3. Start Chatting  
